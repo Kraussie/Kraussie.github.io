@@ -1,14 +1,22 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+	background-image: url("assets/nk-background-2.png");
+	background-color: #add8e6;
+	background-repeat: repeat;
+	background-size: contain;
+}
+
 h1 {
-	color: skyblue;
+	color: white;
 	font-family: Palatino, 'Palatino Lnotype', serif;
 	font-size: 45px;
 }
 
 .nav {
-	color: royalblue;
-	
+	color: white;
+
 	font-size: 35px;
+	text-align: center;
 }
