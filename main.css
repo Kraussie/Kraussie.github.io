@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+	color: skyblue;
+	font-family: Palatino, 'Palatino Lnotype', serif;
+	font-size: 45px;
+}
+
+.nav {
+	color: royalblue;
+	
+	font-size: 35px;
+}
