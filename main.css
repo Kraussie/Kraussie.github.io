@@ -2,20 +2,20 @@
 /* CSS Document */
 
 body {
-	background-image: url("assets/nk-background-2.png");
+	background-image: url("assets/darkmode-main-background.png");
 	background-color: #add8e6;
 	background-repeat: repeat;
-	background-size: contain;
+	background-size: auto;
 }
 
 h1 {
-	color: white;
+	color: #1c1c1c;
 	font-family: Palatino, 'Palatino Lnotype', serif;
 	font-size: 45px;
 }
 
 .nav {
-	color: white;
+	color: #1c1c1c;
 
 	font-size: 35px;
 	text-align: center;
